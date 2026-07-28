@@ -1,1 +1,2 @@
 # kindaimai-bot
+deploy
